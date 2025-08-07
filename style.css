@@ -116,3 +116,9 @@ h3{
   justify-content: space-between;
   margin: 2px 2px;
 }
+
+
+/*Designs for the Second Page/brand kit*/
+#color-cards{
+  display: flex;
+}
