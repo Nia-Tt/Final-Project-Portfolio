@@ -125,12 +125,15 @@ h3{
   flex-wrap: wrap;
   
 }
-
-.card mb-3{
-  width: 100px;
-  border: 3px solid black;
+.col-md-8{
+  width: 350px;
+}
+.col-md-4{
+  
+  width: 500px;
 }
 
+
 .card-body{
-  width: 250px;
+  width: 300px;
 }
