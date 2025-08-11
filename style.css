@@ -11,8 +11,8 @@ button{
 }
 
 #logo{
-  font-weight: bold;
-  text-align: center;
+  width: 150px;
+  height: 60px;
 }
 
 #nav-barL{
