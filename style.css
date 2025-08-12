@@ -111,6 +111,10 @@ h3{
   border: 3px solid black;
 }
 
+.card-body{
+  width: 250px;
+}
+
 .mini-nav2{
   display: flex;
   justify-content: space-between;
